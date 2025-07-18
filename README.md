@@ -14,3 +14,5 @@ Technologies
 - Backend: PHP (PDO with prepared statements)
 -Database: MySQL
 - Validation: Client-side & server-side
+- 
+<img width="364" height="823" alt="Screenshot 2025-07-18 at 3 36 13 PM" src="https://github.com/user-attachments/assets/6ef41b85-8519-4ca1-a3e3-b7b1f6fab56a" />
